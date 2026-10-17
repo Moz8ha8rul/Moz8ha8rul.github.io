@@ -3,8 +3,6 @@
    Crafted for Mozharul (Moz8ha8rul)
    =================================================================== */
 
-@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap');
-
 :root {
   /* Color Palette */
   --bg-dark: #06080e;
@@ -36,8 +34,8 @@
   --c-facebook: #1877f2;
 
   /* Typography */
-  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
+  --font-sans: 'Hey', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'Hey', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   
   /* Transitions & Radii */
   --radius-sm: 8px;
