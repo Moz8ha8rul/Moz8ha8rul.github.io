@@ -40,8 +40,8 @@ const PORTFOLIO_CONFIG = {
     },
     whatsapp: {
       name: "WhatsApp",
-      phone: "+8801700000000", // Replace with your WhatsApp international number (without + or spaces)
-      url: "https://wa.me/8801700000000?text=Hi%20Mozharul%2C%20I%20saw%20your%20portfolio%20and%20would%20like%20to%20connect%21",
+      phone: "8801789385941", // Your BD WhatsApp number
+      url: "https://wa.me/8801789385941?text=Hi%20Mozharul%2C%20I%20saw%20your%20portfolio%20and%20would%20like%20to%20connect%21",
       handle: "Direct Chat",
       description: "Instant messaging for freelance inquiries & quick discussions",
       icon: "whatsapp",
