@@ -54,7 +54,7 @@ socials: {
     url: "https://github.com/Moz8ha8rul",
   },
   linkedin: {
-    url: "https://www.linkedin.com/in/moz8ha8rul", // Your LinkedIn URL
+    url: "https://www.linkedin.com/in/mozharul-islam-khan-a5bb8b178/", // Your LinkedIn URL
   },
   whatsapp: {
     phone: "8801XXXXXXXXX",                        // Your WhatsApp number (country code + number)
