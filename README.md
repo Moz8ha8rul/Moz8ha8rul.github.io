@@ -61,7 +61,7 @@ socials: {
     url: "https://wa.me/8801XXXXXXXXX?text=Hi...", // Direct chat URL
   },
   instagram: {
-    url: "https://www.instagram.com/moz8ha8rul",   // Your Instagram URL
+    url: "https://www.instagram.com/mazharulz/?hl=en",   // Your Instagram URL
   },
   facebook: {
     url: "https://www.facebook.com/moz8ha8rul",    // Your Facebook URL

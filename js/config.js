@@ -50,7 +50,7 @@ const PORTFOLIO_CONFIG = {
     },
     instagram: {
       name: "Instagram",
-      url: "https://www.instagram.com/moz8ha8rul", // Replace with your Instagram profile URL
+      url: "https://www.instagram.com/mazharulz/?hl=en", // Replace with your Instagram profile URL
       handle: "@moz8ha8rul",
       description: "Life highlights, visual design, tech snippets & stories",
       icon: "instagram",

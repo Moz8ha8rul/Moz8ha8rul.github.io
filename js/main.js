@@ -206,7 +206,7 @@ function initMockupTabs() {
     <span class="code-prop">"whatsapp"</span>: <span class="code-str">"https://wa.me/..."</span>,
     <span class="code-prop">"linkedin"</span>: <span class="code-str">"https://linkedin.com/in/moz8ha8rul"</span>,
     <span class="code-prop">"github"</span>: <span class="code-str">"https://github.com/Moz8ha8rul"</span>,
-    <span class="code-prop">"instagram"</span>: <span class="code-str">"https://instagram.com/moz8ha8rul"</span>,
+    <span class="code-prop">"instagram"</span>: <span class="code-str">"https://www.instagram.com/mazharulz/?hl=en"</span>,
     <span class="code-prop">"facebook"</span>: <span class="code-str">"https://facebook.com/moz8ha8rul"</span>
   },
   <span class="code-prop">"edge_cache"</span>: <span class="code-str">"HIT (Fastly CDN)"</span>,
