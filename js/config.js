@@ -31,7 +31,7 @@ const PORTFOLIO_CONFIG = {
     },
     linkedin: {
       name: "LinkedIn",
-      url: "https://www.linkedin.com/in/moz8ha8rul", // Replace with your exact LinkedIn profile URL
+      url: "https://www.linkedin.com/in/mozharul-islam-khan-a5bb8b178/", // Replace with your exact LinkedIn profile URL
       handle: "Mozharul",
       description: "Professional background, career updates & networking",
       icon: "linkedin",
