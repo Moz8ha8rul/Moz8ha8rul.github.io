@@ -25,6 +25,7 @@ Deployed and hosted directly on **GitHub Pages**: [https://moz8ha8rul.github.io/
   - Responsive mobile drawer navigation.
   - 100/100 Core Web Vitals performance optimization with zero runtime bloat.
 - **Centralized Configuration**: All links, contact numbers, and project items can be edited in a single file: `js/config.js`.
+- **Self-Hosted Typography**: The "Hey" typeface is bundled locally in `fonts/` and declared with `@font-face`, so there are zero external font CDN requests.
 
 ---
 
@@ -34,6 +35,8 @@ Deployed and hosted directly on **GitHub Pages**: [https://moz8ha8rul.github.io/
 ├── index.html              # Main HTML5 entry point
 ├── css/
 │   └── styles.css          # Custom styling, Better Stack design system, responsive rules
+├── fonts/
+│   └── Hey.ttf             # Self-hosted "Hey" typeface (Fadlilah Studio)
 ├── js/
 │   ├── config.js           # Edit your social links, WhatsApp number, and bio here
 │   └── main.js             # Interactive telemetry, tabs, copy buttons, drawer menu

@@ -3,6 +3,15 @@
    Crafted for Mozharul (Moz8ha8rul)
    =================================================================== */
 
+/* Self-hosted "Hey" typeface (Fadlilah Studio) */
+@font-face {
+  font-family: 'Hey';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/Hey.ttf') format('truetype');
+}
+
 :root {
   /* Color Palette */
   --bg-dark: #06080e;
@@ -35,7 +44,7 @@
 
   /* Typography */
   --font-sans: 'Hey', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  --font-mono: 'Hey', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'Hey', ui-monospace, 'Cascadia Code', 'Segoe UI Mono', Consolas, monospace;
   
   /* Transitions & Radii */
   --radius-sm: 8px;
